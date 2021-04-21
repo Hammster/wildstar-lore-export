@@ -17,7 +17,7 @@ function renderHTML () {
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
       </head>
       <body style="width: 100rm; margin: auto;">
-        <h1>Wildstar Lore Export</h1>
+        <h1>WildStar Lore Export</h1>
         <sub>Generated: ${new Date().toUTCString()}</sub>
         <hr/>
         <h2>TOC</h2>
