@@ -13,7 +13,7 @@ function renderHTML () {
   const html = `
     <html>
       <head>
-        <title>Wildstar Lore</title>
+        <title>WildStar Lore</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
       </head>
       <body style="width: 100rm; margin: auto;">
