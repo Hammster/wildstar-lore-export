@@ -1,0 +1,6 @@
+{
+  "name": "wildstar-lore",
+  "version": "1.0.0",
+  "main": "generator.js",
+  "license": "MIT"
+}
