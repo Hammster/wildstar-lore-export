@@ -2,5 +2,8 @@
   "name": "wildstar-lore",
   "version": "1.0.0",
   "main": "generator.js",
+  "scripts": {
+    "dev": "npx serve ./out"
+  },
   "license": "MIT"
 }
